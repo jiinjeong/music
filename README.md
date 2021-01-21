@@ -10,3 +10,6 @@ Music coding projects
 * [Folder](https://github.com/jiinjeong/music-coding/tree/main/overtone)
   * [jingle](https://github.com/jiinjeong/music-coding/tree/main/overtone/jingle): A simple Jingle Bells tune.
 * To run, type `lein repl` in the Terminal. Once inside the REPL, type `(use 'overtone.live)` to load the Overtone framework. Load the project file with `(use 'myproj.core :reload)`.
+
+## Klangmeister (Clojure)
+* Check out my GP-Mozart [repo](https://github.com/jiinjeong/gp-mozart).
