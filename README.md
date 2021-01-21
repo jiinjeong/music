@@ -4,7 +4,7 @@ Music coding projects
 ## Sonic Pi (Ruby)
 * [Folder](https://github.com/jiinjeong/music-coding/tree/main/sonic-pi)
   * [beats-intro.rb](https://github.com/jiinjeong/music-coding/blob/main/sonic-pi/beats_intro.rb): Intro to beats and a simple Mamma Mia tune.
-  * [samples-intro](https://github.com/jiinjeong/music-coding/blob/main/sonic-pi/samples): Intro to samples and a simple Bohemian Rhapsody tune.
+  * [samples-intro](https://github.com/jiinjeong/music-coding/blob/main/sonic-pi/samples-intro): Intro to samples and a simple Bohemian Rhapsody tune.
 
 ## Overtone (Clojure)
 * [Folder](https://github.com/jiinjeong/music-coding/tree/main/overtone)
