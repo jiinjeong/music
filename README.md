@@ -1,5 +1,5 @@
 # music-coding
-Music coding projects
+Music coding projects. Feel free to check out my other music endeavors in my [YouTube Channel](https://www.youtube.com/channel/UCYIWswg1WNj27epEzNf7rIg)!
 
 ## Sonic Pi (Ruby)
 * [Folder](https://github.com/jiinjeong/music-coding/tree/main/sonic-pi)
